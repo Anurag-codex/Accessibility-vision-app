@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Accessibility-vision-app/static/css/main.5dfbf57e.css",
+    "main.js": "/Accessibility-vision-app/static/js/main.3169be37.js",
+    "static/js/453.7013f0d6.chunk.js": "/Accessibility-vision-app/static/js/453.7013f0d6.chunk.js",
+    "index.html": "/Accessibility-vision-app/index.html",
+    "main.5dfbf57e.css.map": "/Accessibility-vision-app/static/css/main.5dfbf57e.css.map",
+    "main.3169be37.js.map": "/Accessibility-vision-app/static/js/main.3169be37.js.map",
+    "453.7013f0d6.chunk.js.map": "/Accessibility-vision-app/static/js/453.7013f0d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dfbf57e.css",
+    "static/js/main.3169be37.js"
+  ]
+}
